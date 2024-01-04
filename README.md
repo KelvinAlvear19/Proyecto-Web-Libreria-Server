@@ -19,7 +19,7 @@ Por favor, consulte la guía oficial de instalación de Angular para los requisi
 
 Clonar el repositorio
 
-      [https://github.com/KelvinAlvear19/Economia2.0.git](https://github.com/KelvinAlvear19/Proyecto-Web-Libreria-Angular.git](https://github.com/KelvinAlvear19/Proyecto-Web-Libreria-Server.git)
+      https://github.com/KelvinAlvear19/Proyecto-Web-Libreria-Angular.git](https://github.com/KelvinAlvear19/Proyecto-Web-Libreria-Server.git
 
 Instalar Dependencias
 
