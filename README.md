@@ -15,7 +15,7 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/node-version%20v16.15.0%20-green">
 
-Por favor, consulte la guía oficial de instalación de Angular para los requisitos del servidor antes de empezar.
+Por favor, consulte la guía oficial de instalación de Node para los requisitos del servidor antes de empezar.
 
 Clonar el repositorio
 
