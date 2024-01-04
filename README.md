@@ -33,11 +33,11 @@ Ejecuta el proyecto con el comando
 
 La API proporciona funcionalidades relacionadas con libros, catalogando información y permitiendo la gestión de reseñas.
 
-  -GET /libros: Recupera todos los libros.
-  -POST /libros: Crea un nuevo libro.
-  -GET /libros/:id: Recupera un libro por ID.
-  -PUT /libros/:id: Actualiza un libro por ID.
-  -DELETE /libros/:id: Elimina un libro por ID.
+  - GET /libros: Recupera todos los libros.
+  - POST /libros: Crea un nuevo libro.
+  - GET /libros/:id: Recupera un libro por ID.
+  - PUT /libros/:id: Actualiza un libro por ID.
+  - DELETE /libros/:id: Elimina un libro por ID.
 
 Catálogos:
 
@@ -45,25 +45,25 @@ La API admite la creación y administración de catálogos para organizar los li
 
 - GET /catalogos: Recupera todos los catálogos.
 - POST /catalogos: Crea un nuevo catálogo.
-GET /catalogos/:id: Recupera un catálogo por ID.
-PUT /catalogos/:id: Actualiza un catálogo por ID.
-DELETE /catalogos/:id: Elimina un catálogo por ID.
+- GET /catalogos/:id: Recupera un catálogo por ID.
+- PUT /catalogos/:id: Actualiza un catálogo por ID.
+- DELETE /catalogos/:id: Elimina un catálogo por ID.
 Reseñas:
 
 Permite a los usuarios agregar y gestionar reseñas para compartir opiniones sobre los libros.
 
-GET /resenas: Recupera todas las reseñas.
-POST /resenas: Crea una nueva reseña.
-GET /resenas/:id: Recupera una reseña por ID.
-PUT /resenas/:id: Actualiza una reseña por ID.
-DELETE /resenas/:id: Elimina una reseña por ID.
+- GET /resenas: Recupera todas las reseñas.
+- POST /resenas: Crea una nueva reseña.
+- GET /resenas/:id: Recupera una reseña por ID.
+- PUT /resenas/:id: Actualiza una reseña por ID.
+- DELETE /resenas/:id: Elimina una reseña por ID.
 
 Características:
 
 La API proporciona información detallada sobre las características de los libros, como género, autor, año de publicación, etc.
 
-GET /caracteristicas: Recupera todas las características.
-POST /caracteristicas: Agrega una nueva característica.
-GET /caracteristicas/:id: Recupera una característica por ID.
-PUT /caracteristicas/:id: Actualiza una característica por ID.
-DELETE /caracteristicas/:id: Elimina una característica por ID.
+- GET /caracteristicas: Recupera todas las características.
+- POST /caracteristicas: Agrega una nueva característica.
+- GET /caracteristicas/:id: Recupera una característica por ID.
+- PUT /caracteristicas/:id: Actualiza una característica por ID.
+- DELETE /caracteristicas/:id: Elimina una característica por ID.
