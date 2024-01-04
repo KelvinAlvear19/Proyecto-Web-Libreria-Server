@@ -43,8 +43,8 @@ Catálogos:
 
 La API admite la creación y administración de catálogos para organizar los libros y simplificar la búsqueda.
 
-GET /catalogos: Recupera todos los catálogos.
-POST /catalogos: Crea un nuevo catálogo.
+- GET /catalogos: Recupera todos los catálogos.
+- POST /catalogos: Crea un nuevo catálogo.
 GET /catalogos/:id: Recupera un catálogo por ID.
 PUT /catalogos/:id: Actualiza un catálogo por ID.
 DELETE /catalogos/:id: Elimina un catálogo por ID.
