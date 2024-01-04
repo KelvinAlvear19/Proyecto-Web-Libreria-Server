@@ -33,11 +33,11 @@ Ejecuta el proyecto con el comando
 
 La API proporciona funcionalidades relacionadas con libros, catalogando información y permitiendo la gestión de reseñas.
 
-GET /libros: Recupera todos los libros.
-POST /libros: Crea un nuevo libro.
-GET /libros/:id: Recupera un libro por ID.
-PUT /libros/:id: Actualiza un libro por ID.
-DELETE /libros/:id: Elimina un libro por ID.
+  -GET /libros: Recupera todos los libros.
+  -POST /libros: Crea un nuevo libro.
+  -GET /libros/:id: Recupera un libro por ID.
+  -PUT /libros/:id: Actualiza un libro por ID.
+  -DELETE /libros/:id: Elimina un libro por ID.
 
 Catálogos:
 
